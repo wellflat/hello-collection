@@ -1,4 +1,4 @@
-## MAC OSX
+## macOS
 .DS_Store
 
 ## EMACS
@@ -13,8 +13,4 @@
 *.so
 *.o
 *.d
-
-## PROJECT::SPECIFIC
-*.log
-*.dat
-*.npy
+*.class
