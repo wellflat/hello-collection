@@ -1,5 +1,5 @@
 # hello-collection
-hello world collection<br>
+hello, world<br>
 いろんなプログラミング言語のHello Worldプログラムを書いてみる
 
 ## environment
