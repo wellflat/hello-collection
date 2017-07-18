@@ -2,7 +2,7 @@
 hello world collection<br>
 いろんなプログラミング言語のHello Worldプログラムを書いてみる
 
-## enviroment
+## environment
 開発環境など
 
 - Linux (Ubuntu/CentOS)
