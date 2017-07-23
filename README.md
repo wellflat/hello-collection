@@ -1,6 +1,6 @@
 # hello-collection
 hello, world<br>
-いろんなプログラミング言語のHello Worldプログラムを書いてみる
+いろんなプログラミング言語のHello Worldプログラム
 
 ## environment
 開発環境など
@@ -19,3 +19,10 @@ hello, world<br>
 - 最短コードを書くわけではない<br>
 例えば、main関数的な機構が提供されている言語はそれを省略せずに明示する等<br>
 ソースコードを見て、何の言語か判別できないような書き方もNG
+
+apply linguist
+
+```bash
+$ bundle install
+$ bundle exec linguist --breakdown
+```
