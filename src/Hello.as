@@ -1,10 +1,7 @@
 package {
-    import flash.display.*;
-
-    public class Hello extends Sprite {
+    public class Hello {
         public function Hello() {
             trace("hello, world");
         }
     }
 }
-
