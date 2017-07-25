@@ -16,8 +16,9 @@ hello:
 	ruby hello.rb
 	perl hello.pl
 	go run hello.go
+	emacs --script hello.el
 
 
 clean:
-	$(RM) hello *.o *.class *~
+	$(RM) hello *.o *.class *.elc *~
 
