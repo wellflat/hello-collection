@@ -1,0 +1,4 @@
+install: make get-deps
+language: c
+compiler: gcc
+script: gcc -o src/hello src/hello.c && ./src/hello

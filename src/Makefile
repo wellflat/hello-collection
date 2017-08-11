@@ -12,6 +12,7 @@ hello:
 	@$(RM) ./hello_cpp
 	javac Hello.java
 	java Hello
+	@$(RM) ./Hello.class
 	python hello.py
 	ruby hello.rb
 	perl hello.pl
