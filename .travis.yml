@@ -1,3 +1,5 @@
-language: c
-compiler: gcc
-script: gcc -o src/hello src/hello.c && ./src/hello
+script:
+  cd src
+  gcc -o hello_c hello.c && ./hello_c
+  g++ -o hello_cpp hello.cpp && ./hello_cpp
+  javac Hello.java && java Hello
