@@ -4,6 +4,9 @@ hello:
 	nasm -f elf64 hello.asm && ld -o hello_asm hello.o
 	./hello_asm
 	@$(RM) ./hello_asm ./hello.o
+	gnatmake -o hello_ada hello.adb
+	./hello_ada
+	@$(RM) ./hello_ada ./hello.ali
 	gcc -o hello_c hello.c
 	./hello_c
 	@$(RM) ./hello_c
