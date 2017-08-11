@@ -1,4 +1,4 @@
-# hello-collection
+# hello-collection &ensp; [![Build Status](https://travis-ci.org/wellflat/hello-collection.svg?branch=master)](https://travis-ci.org/wellflat/hello-collection)
 hello, world<br>
 いろんなプログラミング言語のHello Worldプログラム
 
