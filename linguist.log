@@ -1,29 +1,33 @@
-16.88%  Assembly
-8.47%   C#
-7.89%   Objective-C
-7.83%   ActionScript
-7.06%   Java
-6.42%   C++
-5.07%   C
-4.88%   Python
-4.75%   Visual Basic
-4.69%   Go
-4.17%   Ruby
-3.92%   D
-3.72%   Fortran
-2.82%   Perl
-2.63%   Swift
-1.86%   Shell
-1.86%   PHP
-1.80%   JavaScript
-1.67%   Emacs Lisp
-1.60%   PowerShell
+15.95%  Assembly
+8.00%   C#
+7.46%   Objective-C
+7.40%   ActionScript
+6.67%   Java
+6.06%   C++
+5.52%   Ada
+4.79%   C
+4.61%   Python
+4.49%   Visual Basic
+4.43%   Go
+3.94%   Ruby
+3.70%   D
+3.52%   Fortran
+2.67%   Perl
+2.49%   Swift
+1.76%   Shell
+1.76%   PHP
+1.70%   JavaScript
+1.58%   Emacs Lisp
+1.52%   PowerShell
 
 ActionScript:
 src/Hello.as
 
 Java:
 src/Hello.java
+
+Ada:
+src/hello.adb
 
 Assembly:
 src/hello.asm
