@@ -1,5 +1,4 @@
 language: c
-d: dmd
 script:
   - cd src
   - gcc -o hello_c hello.c && ./hello_c
@@ -10,5 +9,4 @@ script:
   - perl hello.pl
   - php hello.php
   - go run hello.go
-  - dmd hello.d
   
