@@ -9,5 +9,5 @@ script:
   - perl hello.pl
   - php hello.php
   - go run hello.go
-  - rdmd hello.d
+  - dmd hello.d
   
