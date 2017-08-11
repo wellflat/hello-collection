@@ -12,5 +12,4 @@
 ## PROJECT::GENERAL
 *.so
 *.o
-*.d
 *.class
