@@ -1,4 +1,5 @@
 language: c
+d: dmd
 script:
   - cd src
   - gcc -o hello_c hello.c && ./hello_c
