@@ -16,6 +16,7 @@ hello:
 	python hello.py
 	ruby hello.rb
 	perl hello.pl
+	php hello.php
 	go run hello.go
 	emacs --script hello.el
 
