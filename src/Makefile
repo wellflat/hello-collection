@@ -3,7 +3,7 @@ hello:
 	@echo hello, world
 	nasm -f elf64 hello.asm && ld -o hello_asm hello.o
 	./hello_asm
-	@$(RM) ./hello_asm
+	@$(RM) ./hello_asm ./hello.o
 	gcc -o hello_c hello.c
 	./hello_c
 	@$(RM) ./hello_c
