@@ -25,3 +25,5 @@ apply linguist
 $ bundle install
 $ bundle exec linguist --breakdown
 ```
+
+* [linguist result](https://raw.githubusercontent.com/wellflat/hello-collection/master/linguist.log)
