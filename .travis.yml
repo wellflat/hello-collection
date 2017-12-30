@@ -10,4 +10,3 @@ script:
   - php hello.php
   - go run hello.go
   - node hello.js
-  - elixir hello.exs
