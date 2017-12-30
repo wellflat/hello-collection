@@ -9,4 +9,5 @@ script:
   - perl hello.pl
   - php hello.php
   - go run hello.go
-  - node hello.js  
+  - node hello.js
+  - elixir hello.exs

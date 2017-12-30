@@ -22,8 +22,11 @@ hello:
 	php hello.php
 	go run hello.go
 	emacs --script hello.el
+	elixir hello.exs
+	@$(RM) ./Elixir.Hello.beam
+
 
 
 clean:
-	$(RM) hello *.o *.class *.elc *~
+	$(RM) hello *.o *.class *.elc *.beam *~
 
