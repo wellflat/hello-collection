@@ -1,24 +1,27 @@
-16.29%  Assembly
-7.62%   Objective-C
-7.56%   ActionScript
-6.82%   Java
-6.20%   C++
-6.01%   C#
-5.64%   Ada
-4.89%   C
-4.71%   Python
-4.58%   Visual Basic
-4.52%   Go
-4.03%   Ruby
-3.78%   D
-3.59%   Fortran
-2.73%   Perl
-2.54%   Swift
-1.80%   Shell
-1.80%   PHP
-1.73%   JavaScript
-1.61%   Emacs Lisp
-1.55%   PowerShell
+14.02%  Assembly
+6.56%   Objective-C
+6.50%   ActionScript
+5.86%   Java
+5.33%   C++
+5.17%   C#
+5.06%   Erlang
+4.74%   Ada
+4.58%   Lua
+4.42%   Elixir
+4.21%   C
+4.05%   Python
+3.94%   Visual Basic
+3.89%   Go
+3.46%   Ruby
+3.25%   D
+3.09%   Fortran
+2.35%   Perl
+2.19%   Swift
+1.55%   Shell
+1.55%   PHP
+1.49%   JavaScript
+1.39%   Emacs Lisp
+1.33%   PowerShell
 
 ActionScript:
 src/Hello.as
@@ -47,6 +50,12 @@ src/hello.d
 Emacs Lisp:
 src/hello.el
 
+Erlang:
+src/hello.erl
+
+Elixir:
+src/hello.exs
+
 Fortran:
 src/hello.f90
 
@@ -55,6 +64,9 @@ src/hello.go
 
 JavaScript:
 src/hello.js
+
+Lua:
+src/hello.lua
 
 Objective-C:
 src/hello.m
