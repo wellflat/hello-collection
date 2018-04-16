@@ -24,6 +24,7 @@ hello:
 	emacs --script hello.el
 	elixir hello.exs
 	@$(RM) ./Elixir.Hello.beam
+	crystal hello.cr
 
 
 
