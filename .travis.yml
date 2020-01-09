@@ -10,3 +10,4 @@ script:
   - php hello.php
   - go run hello.go
   - node hello.js
+  - rustc -o hello_rs hello.rs && ./hello_rs
