@@ -25,6 +25,9 @@ hello:
 	elixir hello.exs
 	@$(RM) ./Elixir.Hello.beam
 	crystal hello.cr
+	rustc -o hello_rs hello.rs
+	./hello_rs
+	@$(RM) ./hello_rs
 
 
 
